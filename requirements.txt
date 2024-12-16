@@ -1,0 +1,6 @@
+protobuf==4.25.5
+pygame==2.6.1
+streamlit 
+mediapipe 
+opencv-python-headless 
+pandas 
