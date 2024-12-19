@@ -1,7 +1,7 @@
-opencv-python-headless==4.5.3.56
+opencv-python-headless>=4.8.0
 streamlit
 mediapipe
-numpy
+numpy>=1.22.0
 protobuf==4.25.5
 pygame==2.6.1
 pandas
