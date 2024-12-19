@@ -4,3 +4,4 @@ streamlit
 mediapipe 
 opencv-python-headless 
 pandas 
+opencv-python 
